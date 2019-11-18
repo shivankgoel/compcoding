@@ -1,7 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
+typedef long double ld;
 typedef vector<int> vi;
+typedef vector<long double> vd;
+typedef vector<vector<int>> vvi;
 typedef vector<long long> vll;
 typedef vector<string> vs;
 typedef pair<int,int> pii;
@@ -20,7 +23,7 @@ int main(){
     freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);
     #endif
-    ll t,m,n,q,a,b;
+    ll t,m,n,k;
     cin>>t;
     while(t--){
 
