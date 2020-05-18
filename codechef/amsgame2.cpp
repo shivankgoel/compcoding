@@ -11,7 +11,7 @@ typedef pair<int,int> pii;
 typedef unordered_map<int,int> umpii;
 #define EPS 1e-9
 #define PI 3.14159265
-#define mod 1000000007
+#define mod 1e9+7
 #define N 300001
 #define pb push_back
 
